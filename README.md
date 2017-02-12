@@ -6,8 +6,8 @@ Speed-dating match prediction based on Anna Montoya's [Speed Dating Experiment] 
 
 This notebook use TensorFlow, Pandas, NumPy and PyPlot.
 Pandas, NumPy and Pyplot can be installed by PIP. Run <code>pip install numpy pandas matplotlib</code> in terminal.
-For TensorFlow, please refeer to the [official documentation] (https://www.tensorflow.org/get_started/os_setup)
+For TensorFlow, please refeer to the [official documentation]. (https://www.tensorflow.org/get_started/os_setup)
 
 ### Running
 
-Run <code>jupyter notbook</code> in terminal and open the notbook.
+Run <code>jupyter notebook</code> in terminal and open the notbook.
